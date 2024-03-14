@@ -1,5 +1,5 @@
 ![Gummy's Stats](https://github-readme-stats.vercel.app/api?username=mr0gummy&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
-![Gold](https://cdn.discordapp.com/attachments/1174445819169099777/1217858485031665754/gold.gif?ex=66058e19&is=65f31919&hm=32bc060088bb7d388cc25df256499c02263bf70d1fd3de4776928322abef8cf4&)
+![Gold](https://cdn.discordapp.com/attachments/1174445819169099777/1217859816349892618/gold.gif?ex=66058f56&is=65f31a56&hm=ee5ba30ca8fa9357412ef1905a188efbc55ef7e324ad5ea74c2d0671c4e3e979&)
 
 <!---
 MR0Gummy/MR0Gummy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
